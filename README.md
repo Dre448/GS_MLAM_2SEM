@@ -53,8 +53,6 @@ Foram aplicados: distribuição normal de probabilidade, testes de hipóteses pa
 └── figuras/                               # (opcional) gráficos fig_*.png gerados pelo notebook
 ```
 
-> Se o notebook for renomeado no repositório, atualize o nome acima.
-
 ## 5. Como executar
 
 1. Abra o notebook no **Google Colab** (Arquivo ▸ Abrir notebook ▸ GitHub, ou faça upload do `.ipynb`).
